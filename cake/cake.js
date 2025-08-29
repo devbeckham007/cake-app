@@ -1,5 +1,5 @@
 // Start at the first slide
-let currentSlide = 0;
+// let currentSlide = 0;
 
 // Get all the slide elements
 const slides = document.querySelectorAll(".carousel-slide");
