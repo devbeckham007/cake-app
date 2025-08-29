@@ -5,7 +5,7 @@ let currentSlide = 0;
 const slides = document.querySelectorAll(".carousel-slide");
 
 // Get the left and right buttons
-const leftBtn = document.querySelector(".btn-left");
+const leftBtn = document.querySelector(".btn-left")
 const rightBtn = document.querySelector(".btn-right");
 
 // Function to show the slide at a specific index
